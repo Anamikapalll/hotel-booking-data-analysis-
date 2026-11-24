@@ -1,0 +1,9 @@
+pip install --upgrade jupyter ipykernel                                           
+python -m ipykernel install --user --name=py314 --display-name="Python 3.14"
+
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+notebook
